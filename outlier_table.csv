@@ -1,0 +1,228 @@
+variable,iqr_outliers_number,number_of_nonmissing,rule_used,action_performed
+anti_tg_IU_mL,299,936,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_P)",118,901,1.5xIQR,flag_only
+Anty-TPO (ATA_TPO),114,1043,1.5xIQR,flag_only
+P/c antytyreoglobulinowe (anty-Tg) (ANTYTG2),109,682,1.5xIQR,flag_only
+Kortyzol godz. 23:00 (KOR23),86,1167,1.5xIQR,flag_only
+17ohp_baseline_ng_ml,74,1177,1.5xIQR,flag_only
+lh_iu_l,73,1213,1.5xIQR,flag_only
+LH (LH),73,1168,1.5xIQR,flag_only
+insulin_fasting_uU_ml,68,1156,1.5xIQR,flag_only
+testosterone_free_nmol_L,62,1115,1.5xIQR,flag_only
+androstenedione_ng_ml,57,1126,1.5xIQR,flag_only
+17 - OH progesteron (L79) (17-OHPG),54,965,1.5xIQR,flag_only
+prolactin_ng_ml,54,1210,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS#)",50,901,1.5xIQR,flag_only
+Testosteron wolny (O41) (TEST-F),49,926,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_B)",49,901,1.5xIQR,flag_only
+PRL godz. 10:00 (PRL10),48,1165,1.5xIQR,flag_only
+Triglicerydy (TG),47,1169,1.5xIQR,flag_only
+Insulina (INSUL),44,744,1.5xIQR,flag_only
+Krzywa cukrowa - 2 punktowa (GLU120),43,1149,1.5xIQR,flag_only
+rdw_percent,43,990,1.5xIQR,flag_only
+Anty-TG (p/c przeciw tyreoglobulinie) (ATG),42,254,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS)",39,901,1.5xIQR,flag_only
+TSH (TSH),38,1168,1.5xIQR,flag_only
+Androstendion (ANDRO),37,682,1.5xIQR,flag_only
+tsh_uIU_mL,37,1213,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDW)",35,901,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCH)",33,901,1.5xIQR,flag_only
+SHBG (L_SHGB),31,1166,1.5xIQR,flag_only
+AMH_ng_ml,30,1168,1.5xIQR,flag_only
+shbg_nmol_l,29,1211,1.5xIQR,flag_only
+fsh_iu_l,29,1213,1.5xIQR,flag_only
+Kortyzol po Dexamethasonie [2mg] (KOR2DXM),28,537,1.5xIQR,flag_only
+wbc_10_3_uL,28,990,1.5xIQR,flag_only
+testosterone_ng_ml,28,1212,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASO)",28,901,1.5xIQR,flag_only
+Testosteron (L_TESTOS),27,1167,1.5xIQR,flag_only
+FSH (FSH),26,1168,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT#)",25,901,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (WBC)",25,901,1.5xIQR,flag_only
+neutrophils_abs_10_3_uL,25,946,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDWSD)",23,901,1.5xIQR,flag_only
+AMH (hormon anty-Mullerowski) (AMH_CP),23,976,1.5xIQR,flag_only
+Krzywa cukrowa - 2 punktowa (L_GLU_0),23,1150,1.5xIQR,flag_only
+Kortyzol po Dexamethasonie [1mg] (KORD),23,400,1.5xIQR,flag_only
+mch_pg,23,945,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASOB)",23,901,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON#)",22,901,1.5xIQR,flag_only
+dheas_ug_dL,22,1216,1.5xIQR,flag_only
+glucose_fasting_mg_dL,21,1195,1.5xIQR,flag_only
+DHEAS (DHEA),20,1171,1.5xIQR,flag_only
+rdwsd_fL,20,945,1.5xIQR,flag_only
+pdw_fL,19,946,1.5xIQR,flag_only
+mcv_fL,19,945,1.5xIQR,flag_only
+ALAT (ALT),19,263,1.5xIQR,flag_only
+lymphocytes_abs_10_3_uL,18,946,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PDW)",18,902,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM#)",17,901,1.5xIQR,flag_only
+mchc_g_dL,17,945,1.5xIQR,flag_only
+Kortyzol po Dexamethasonie (KORD),17,229,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCV)",16,901,1.5xIQR,flag_only
+insulin_60min_4pt_uU_ml,16,145,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT)",15,901,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCHC)",15,901,1.5xIQR,flag_only
+ASPAT (AST),15,263,1.5xIQR,flag_only
+Cholesterol całkowity (TCHOL),14,1169,1.5xIQR,flag_only
+mpv_fL,13,990,1.5xIQR,flag_only
+FT4 (FT4),13,1167,1.5xIQR,flag_only
+HDL cholesterol (HDL),13,1169,1.5xIQR,flag_only
+Insulina po 75g glukozy (3pkt.) (INSUL_0),13,222,1.5xIQR,flag_only
+hemoglobin_g_dL,12,945,1.5xIQR,flag_only
+rbc_10_6_uL,12,945,1.5xIQR,flag_only
+Androstendion (I31) (ANDRO),11,255,1.5xIQR,flag_only
+Insulina po 75g glukozy (3pkt.) (INSUL_1),11,221,1.5xIQR,flag_only
+Kortyzol godz. 08:00 (KOR),11,1165,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RBC)",11,901,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM)",11,901,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HGB)",11,901,1.5xIQR,flag_only
+insulin_60min_3pt_uU_ml,11,221,1.5xIQR,flag_only
+cortisol_8am_ug_dL,11,1210,1.5xIQR,flag_only
+LDL cholesterol (LDL),10,1169,1.5xIQR,flag_only
+Androstendion (I31),10,189,1.5xIQR,flag_only
+platelets_10_3_uL,10,990,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON)",9,901,1.5xIQR,flag_only
+Wolny testosteron (O41.W),9,189,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLT)",9,901,1.5xIQR,flag_only
+hematocrit_percent,9,945,1.5xIQR,flag_only
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 60m)",9,83,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLCR)",8,901,1.5xIQR,flag_only
+insulin_30min_uU_ml,8,144,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HCT)",8,901,1.5xIQR,flag_only
+plcr_percent,8,945,1.5xIQR,flag_only
+pct_percent,8,945,1.5xIQR,flag_only
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 30m)",7,83,1.5xIQR,flag_only
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 120m)",7,83,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PCT)",7,901,1.5xIQR,flag_only
+insulin_120min_4pt_uU_ml,7,83,1.5xIQR,flag_only
+AMH-anty Mullerian Hormon (AMH),6,147,1.5xIQR,flag_only
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MPV)",6,901,1.5xIQR,flag_only
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_2)",5,62,1.5xIQR,flag_only
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 0m)",5,83,1.5xIQR,flag_only
+Ca125 (CA125),4,41,1.5xIQR,flag_only
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_1)",4,61,1.5xIQR,flag_only
+Insulina po 75g glukozy (3pkt.) (INSUL_2),4,221,1.5xIQR,flag_only
+insulin_120min_3pt_uU_ml,4,221,1.5xIQR,flag_only
+Gamma Glutamylotranspeptydaza (GGTP),4,77,1.5xIQR,flag_only
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_0)",4,62,1.5xIQR,flag_only
+Test z Synacthenem (L79_2),3,54,1.5xIQR,flag_only
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10PEG)",3,25,1.5xIQR,flag_only
+Anty-TG (O18),3,21,1.5xIQR,flag_only
+Bilirubina całkowita (TBIL),3,76,1.5xIQR,flag_only
+Morfologia CBC (HGB),3,44,1.5xIQR,flag_only
+Kreatynina (KREAT),3,113,1.5xIQR,flag_only
+Morfologia CBC (RDW),3,44,1.5xIQR,flag_only
+RDW %,3,45,1.5xIQR,flag_only
+APTT Czas kaolinowo-kefalinowy (APTTCZ),2,5,1.5xIQR,flag_only
+Morfologia CBC (MCHC),2,44,1.5xIQR,flag_only
+FSH IU/l,2,45,1.5xIQR,flag_only
+"Jonogram (Sód, potas, chlorki) (L_NA)",2,84,1.5xIQR,flag_only
+LH 0' 30' 60' (L_LH60),2,15,1.5xIQR,flag_only
+Limf 10^3/uL,2,45,1.5xIQR,flag_only
+LH 0' 30' 60' (L_LH30),2,15,1.5xIQR,flag_only
+MPV fL,2,45,1.5xIQR,flag_only
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10)",2,25,1.5xIQR,flag_only
+PLT 10^3/uL,2,45,1.5xIQR,flag_only
+Test z Synacthenem (L79_0),2,52,1.5xIQR,flag_only
+insulina uU/ml,2,45,1.5xIQR,flag_only
+testosteron ng/ml,2,45,1.5xIQR,flag_only
+Morfologia CBC (WBC),1,44,1.5xIQR,flag_only
+beta HCG (L_HCG),1,21,1.5xIQR,flag_only
+glu 0' mg/dl,1,45,1.5xIQR,flag_only
+Morfologia CBC (MPV),1,44,1.5xIQR,flag_only
+Dobowy rytm tolerancji glukozy (L_G1200),1,7,1.5xIQR,flag_only
+Dobowy rytm tolerancji glukozy (L_G1800),1,7,1.5xIQR,flag_only
+DHEAS ug/dl,1,45,1.5xIQR,flag_only
+Dobowy rytm tolerancji glukozy (L_G1500),1,7,1.5xIQR,flag_only
+Dobowy rytm tolerancji glukozy (L_G2400),1,7,1.5xIQR,flag_only
+Estradiol (L_ESTRA),1,34,1.5xIQR,flag_only
+Hemoglobina glikowana (HBA1C_1),1,23,1.5xIQR,flag_only
+Hemoglobina glikowana (HBA1C_2),1,23,1.5xIQR,flag_only
+FT3 (FT3),1,6,1.5xIQR,flag_only
+Morfologia CBC (PCT),1,44,1.5xIQR,flag_only
+"Jonogram (Sód, potas, chlorki) (L_CI)",1,84,1.5xIQR,flag_only
+Morfologia CBC (MCV),1,44,1.5xIQR,flag_only
+17 OH progesteron (L79),1,212,1.5xIQR,flag_only
+Białko C-reaktywne (CRP),1,19,1.5xIQR,flag_only
+AMH ng/ml,1,45,1.5xIQR,flag_only
+Morfologia CBC (RDWSD),1,44,1.5xIQR,flag_only
+Morfologia CBC (MCH),1,44,1.5xIQR,flag_only
+Morfologia CBC (PDW),1,44,1.5xIQR,flag_only
+Morfologia CBC (RBC),1,44,1.5xIQR,flag_only
+SHBG nmol/l,1,45,1.5xIQR,flag_only
+P/c przeciw receptorowi TSH (TRAb) (TRAB_2),1,5,1.5xIQR,flag_only
+Test Roma (HE4),1,10,1.5xIQR,flag_only
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL16)",1,23,1.5xIQR,flag_only
+Test Roma (PRMENOP),1,8,1.5xIQR,flag_only
+Test z Synacthenem (L79_1),1,54,1.5xIQR,flag_only
+WBC 10^3/uL,1,45,1.5xIQR,flag_only
+CEA (CEA),0,1,1.5xIQR,flag_only
+Dobowy rytm tolerancji glukozy (L_G330),0,7,1.5xIQR,flag_only
+Dobowy rytm tolerancji glukozy (L_G700),0,7,1.5xIQR,flag_only
+Dokument (NAZWA),0,18,1.5xIQR,flag_only
+Estradiol (ESTRA),0,57,1.5xIQR,flag_only
+Morfologia CBC (HCT),0,44,1.5xIQR,flag_only
+Mocz - badanie ogólne (MPH),0,7,1.5xIQR,flag_only
+Mocz - badanie ogólne (MCIEZA),0,7,1.5xIQR,flag_only
+Mocz - badanie ogólne (MOSAD),0,0,1.5xIQR,flag_only
+LH IU/l,0,45,1.5xIQR,flag_only
+MDRD GFR (MDRD),0,104,1.5xIQR,flag_only
+Kortyzol po Dexamethasonie [4mg] (KOR4DXM),0,3,1.5xIQR,flag_only
+LH 0' 30' 60' (LH0),0,15,1.5xIQR,flag_only
+Kortyzol na czczo (KORCZ),0,1,1.5xIQR,flag_only
+"Jonogram (Sód, potas, chlorki) (L_K)",0,84,1.5xIQR,flag_only
+Fibrynogen (L_FIB),0,3,1.5xIQR,flag_only
+Fosforany nieorganiczne (FOSFOR),0,2,1.5xIQR,flag_only
+Ferrytyna (L05),0,1,1.5xIQR,flag_only
+IGF-1 (insulinopodobny czynnik wzrostu 1) (IGF1_L),0,1,1.5xIQR,flag_only
+Hemoglobina glikowana (L53.IFC),0,4,1.5xIQR,flag_only
+Hemoglobina glikowana (L55),0,4,1.5xIQR,flag_only
+FSH 0' 30' 60' (L_FSH0),0,15,1.5xIQR,flag_only
+GH (hormon wzrostu) (L_GH),0,1,1.5xIQR,flag_only
+FSH 0' 30' 60' (L_FSH30),0,15,1.5xIQR,flag_only
+FSH 0' 30' 60' (L_FSH60),0,15,1.5xIQR,flag_only
+Glukoza (L_GLU),0,2,1.5xIQR,flag_only
+Ferrytyna (FERR),0,2,1.5xIQR,flag_only
+ASO - ilościowo (ASOIL),0,1,1.5xIQR,flag_only
+BMI kg/m2,0,45,1.5xIQR,flag_only
+Dobowy rytm tolerancji glukozy (L_G1030),0,7,1.5xIQR,flag_only
+D-dimery (DDIMER),0,2,1.5xIQR,flag_only
+Ca19.9 (CA199),0,1,1.5xIQR,flag_only
+Dobowy rytm tolerancji glukozy (L_G2100),0,7,1.5xIQR,flag_only
+Morfologia CBC (PLT),0,44,1.5xIQR,flag_only
+Neu 10^3/uL,0,45,1.5xIQR,flag_only
+P/c przeciw receptorowi TSH (TRAb) (O15) (TRAB),0,2,1.5xIQR,flag_only
+Morfologia CBC (PLCR),0,44,1.5xIQR,flag_only
+Test Roma (CA125),0,8,1.5xIQR,flag_only
+TSH uIU/ml,0,45,1.5xIQR,flag_only
+TK jamy brzusznej i miednicy z kontrastem (nan),0,0,1.5xIQR,flag_only
+TK jamy brzusznej z kontrastem (nan),0,0,1.5xIQR,flag_only
+SHBG (SHGB),0,1,1.5xIQR,flag_only
+Protrombina (PT) (PTAKT),0,5,1.5xIQR,flag_only
+"RTG kości nadgarstka, PA, bok (nan)",0,0,1.5xIQR,flag_only
+Rok KG,0,1286,1.5xIQR,flag_only
+Procent odzysku prolaktyny po precypitacji (MAKROPRL),0,14,1.5xIQR,flag_only
+PRL ng/ml,0,45,1.5xIQR,flag_only
+Protrombina (PT) (PTCZAS),0,5,1.5xIQR,flag_only
+Nr KG,0,1286,1.5xIQR,flag_only
+NLR,0,0,1.5xIQR,flag_only
+PRL 10:00 i 10:00 po PEG (PRL10PEG),0,1,1.5xIQR,flag_only
+PLR,0,0,1.5xIQR,flag_only
+PRL 10:00 i 10:00 po PEG (PRL10),0,1,1.5xIQR,flag_only
+P/c przeciw GAD (p/c p. dekarbosylazie kwasu glutaminowego) (PCGAD),0,2,1.5xIQR,flag_only
+kortyzol 8.00 ug/dl,0,45,1.5xIQR,flag_only
+Wymaz z kanału szyjki macicy - posiew tlenowy (Wynik badania),0,0,1.5xIQR,flag_only
+Żelazo (FE),0,3,1.5xIQR,flag_only
+Wapń zjonizowany (surowica) (L_CAZJS),0,1,1.5xIQR,flag_only
+Wapń całkowity (TCAL),0,2,1.5xIQR,flag_only
+USG tarczycy i przytarczyc (nan),0,0,1.5xIQR,flag_only
+Wymaz z kanału szyjki macicy - posiew mykologiczny (Wynik badania),0,0,1.5xIQR,flag_only
+Test Roma (ROMAPR),0,2,1.5xIQR,flag_only
+Test Roma (I41),0,2,1.5xIQR,flag_only
+Test Roma (POMENOP),0,8,1.5xIQR,flag_only
+USG brzucha i przestrzeni zaotrzewnowej (nan),0,0,1.5xIQR,flag_only
+USG nadnerczy (nan),0,0,1.5xIQR,flag_only
+USG piersi (nan),0,0,1.5xIQR,flag_only
+USG wątroby – elastografia (nan),0,0,1.5xIQR,flag_only
+Test Roma (ROMAPO),0,2,1.5xIQR,flag_only
